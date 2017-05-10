@@ -1,0 +1,19 @@
+.lessons {
+    display: flex;
+    height: 100%;
+    background: #ffffff;
+}
+
+.sidebar {
+    min-width: 250px;
+    padding: 40px 40px 40px 0;
+    background: #f3f3f3;
+}
+
+.sidebar-contents, .sidebar-contents ul {
+    list-style-type: none;
+}
+
+.sidebar-back {
+    margin-bottom: 20px;
+}
