@@ -35,8 +35,12 @@ export default class Sandbox extends Component {
         });
     };
 
-    assert = (textStatement, statement) => {
-        this.tests.push(`${textStatement}: ${statement ? 'true' : 'false'}`);
+    assert = (statement, textStatement) => {
+        this.tests.push(<span>{statement ? <span className="correct">{textStatement}</span> : <span className="error">{textStatement}</span>}</span>);
+    };
+
+    log = (textStatement) => {
+        this.tests.push(`${textStatement}`);
     };
 
     createElement = (element) => {
@@ -87,7 +91,7 @@ export default class Sandbox extends Component {
                 <div className="sandbox-bottom">
                     <ul>
                         {this.state.error && <li className="error">{this.state.error}</li>}
-                        {this.state.tests.map(t => <li>{t}</li>)}
+                        {this.state.tests.map((t, i) => <li key={i}>{t}</li>)}
                     </ul>
                 </div>
             </div>
