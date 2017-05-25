@@ -2,37 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6162129-9cee-41ba-8a47-74b4c5904ea8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/command/presentation/1.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/mediator/presentation/1.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/factory/presentation/1.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/revealing-module/presentation/1.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/singleton/presentation/1.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/presentation/1.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/presentation/1.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/command/presentation/2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/command/sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/command/theory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/mediator/presentation/2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/mediator/sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/mediator/theory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/factory/presentation/2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/factory/sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/factory/theory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/revealing-module/presentation/2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/revealing-module/sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/revealing-module/theory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/singleton/presentation/2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/singleton/sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/singleton/theory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/presentation/2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/theory.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/presentation/2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/theory.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/observer/presentation/1.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/observer/presentation/2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/observer/sandbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/observer/theory.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Sandbox/index.js" afterPath="$PROJECT_DIR$/src/components/Sandbox/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Sandbox/style.css" afterPath="$PROJECT_DIR$/src/components/Sandbox/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/data.json" afterPath="$PROJECT_DIR$/src/data/data.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -96,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sandbox.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sandbox.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/behavioral/mediator/sandbox.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -107,7 +81,7 @@
         </entry>
       </file>
       <file leaf-file-name="theory.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/theory.md">
+        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/behavioral/observer/theory.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -121,11 +95,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sandbox.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/sandbox.js">
+      <file leaf-file-name="sandbox.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/behavioral/observer/sandbox.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="38" lean-forward="false" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+            <state relative-caret-position="368">
+              <caret line="85" column="17" lean-forward="false" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -207,6 +181,7 @@
       <find>sandbox.sandbox</find>
       <find>widget</find>
       <find>ista</find>
+      <find>extend</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -257,6 +232,7 @@
         <option value="$PROJECT_DIR$/src/components/Sandbox/index.js" />
         <option value="$PROJECT_DIR$/src/components/Sandbox/style.css" />
         <option value="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/mediator/sandbox.js" />
+        <option value="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/observer/sandbox.js" />
       </list>
     </option>
   </component>
@@ -448,7 +424,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mediator" />
+              <option name="myItemId" value="observer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -475,10 +451,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="behavioral" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="command" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -644,12 +616,12 @@
       <workItem from="1494406102079" duration="2339000" />
       <workItem from="1494415924825" duration="6692000" />
       <workItem from="1495198331664" duration="769000" />
-      <workItem from="1495718472461" duration="5927000" />
+      <workItem from="1495718472461" duration="6402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37096000" />
+    <option name="totallyTimeSpent" value="37571000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-20" width="1366" height="767" extended-state="0" />
@@ -695,21 +667,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/Theory/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/stores/appStore.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1131,6 +1088,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/behavioral/observer/theory.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/behavioral/observer/sandbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="85" column="17" lean-forward="false" selection-start-line="85" selection-start-column="17" selection-end-line="85" selection-end-column="17" />
           <folding />
         </state>
       </provider>
