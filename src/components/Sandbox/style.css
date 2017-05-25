@@ -15,6 +15,9 @@
     min-width: 30%;
     border: 1px solid gray;
     padding: 40px;
+
+    display: flex;
+    flex-direction: column;
 }
 
 .sandbox-results-buttons {
@@ -45,6 +48,7 @@
 .sandbox-visual {
     padding: 10px;
     border: 1px solid gray;
+    flex-grow: 1;
 }
 
 .codemirror {
