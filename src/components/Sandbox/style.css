@@ -17,12 +17,34 @@
     padding: 40px;
 }
 
+.sandbox-results-buttons {
+    width: 100%;
+    border: 1px solid gray;
+    border-bottom: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sandbox-results-buttons button {
+    border: 0;
+    height: 50px;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+
+    cursor: pointer;
+}
+
 .sandbox-bottom {
     min-height: 200px;
     border: 1px solid gray;
     border-top: 0;
     padding: 40px;
     overflow: auto;
+}
+
+.sandbox-visual {
+    padding: 10px;
+    border: 1px solid gray;
 }
 
 .codemirror {
@@ -33,6 +55,30 @@
     max-width: 70%;
     min-width: 70%;
     overflow-x: auto;
+}
+
+.codemirror.fullscreen {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    max-width: 100%;
+    min-width: 100%;
+}
+
+.btn-fullscreen {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 50px;
+    height: 30px;
+}
+
+.codemirror.fullscreen .btn-fullscreen {
+    display: block;
+    z-index: 1024;
 }
 
 .ReactCodeMirror {

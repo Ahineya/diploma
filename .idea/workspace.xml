@@ -2,14 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6162129-9cee-41ba-8a47-74b4c5904ea8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/module/presentation/1.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/module/presentation/2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/command/presentation/1.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/mediator/presentation/1.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/factory/presentation/1.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/revealing-module/presentation/1.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/singleton/presentation/1.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/presentation/1.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/presentation/1.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/command/presentation/2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/command/sandbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/command/theory.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/mediator/presentation/2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/mediator/sandbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/mediator/theory.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/factory/presentation/2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/factory/sandbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/factory/theory.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/revealing-module/presentation/2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/revealing-module/sandbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/revealing-module/theory.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/singleton/presentation/2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/singleton/sandbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/singleton/theory.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/presentation/2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/sandbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/theory.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/presentation/2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/sandbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/theory.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Sandbox/index.js" afterPath="$PROJECT_DIR$/src/components/Sandbox/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Sandbox/style.css" afterPath="$PROJECT_DIR$/src/components/Sandbox/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data/data.json" afterPath="$PROJECT_DIR$/src/data/data.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lessons/js-patterns/creational/constructor/sandbox.js" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/constructor/sandbox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lessons/js-patterns/creational/module/sandbox.js" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/creational/module/sandbox.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,32 +51,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Sandbox/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="98" column="4" lean-forward="false" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="4" />
+            <state relative-caret-position="249">
+              <caret line="94" column="29" lean-forward="false" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="29" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
                 <element signature="e#186#222#0" expanded="true" />
-                <marker date="1495721204284" expanded="true" signature="1847:2663" ph="..." />
-                <marker date="1495721204284" expanded="true" signature="1894:2350" ph="..." />
-                <marker date="1495721204284" expanded="true" signature="1948:2144" ph="..." />
-                <marker date="1495721204284" expanded="true" signature="2193:2327" ph="..." />
-                <marker date="1495721204284" expanded="true" signature="2300:2321" ph="..." />
-                <marker date="1495721204284" expanded="true" signature="2399:2644" ph="..." />
-                <marker date="1495721204284" expanded="true" signature="2424:2621" ph="..." />
+                <marker date="1495723646814" expanded="true" signature="1996:3192" ph="..." />
+                <marker date="1495723646814" expanded="true" signature="2043:2879" ph="..." />
+                <marker date="1495723646814" expanded="true" signature="2097:2504" ph="..." />
+                <marker date="1495723646814" expanded="true" signature="2606:2856" ph="..." />
+                <marker date="1495723646814" expanded="true" signature="2713:2850" ph="..." />
+                <marker date="1495723646814" expanded="true" signature="2928:3173" ph="..." />
+                <marker date="1495723646814" expanded="true" signature="2953:3150" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_data.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data/_data.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
-              <caret line="76" column="26" lean-forward="false" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -61,48 +75,18 @@
         <entry file="file://$PROJECT_DIR$/src/components/Sandbox/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="206">
-              <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sandbox.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/creational/module/sandbox.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sandbox.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/creational/constructor/sandbox.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="packer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/packer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+              <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="theory.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/creational/constructor/theory.md">
+        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/behavioral/mediator/theory.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="17">
-                <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -112,36 +96,86 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/creational/constructor/presentation/2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="sandbox.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/behavioral/mediator/sandbox.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+            <state relative-caret-position="225">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="theory.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/theory.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sandbox.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/sandbox.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="493">
+              <caret line="29" column="38" lean-forward="false" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theory.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/theory.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sandbox.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/sandbox.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="66" column="4" lean-forward="false" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theory.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/behavioral/command/theory.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sandbox.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/behavioral/command/sandbox.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="91" column="119" lean-forward="false" selection-start-line="91" selection-start-column="119" selection-end-line="91" selection-end-column="119" />
               <folding />
             </state>
           </provider>
@@ -170,11 +204,17 @@
       <find>.sidebar</find>
       <find>var</find>
       <find>log</find>
+      <find>sandbox.sandbox</find>
+      <find>widget</find>
+      <find>ista</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>let</replace>
       <replace>const</replace>
+      <replace>sandbox.log</replace>
+      <replace>sandbox.assert</replace>
+      <replace>sandbox</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -206,10 +246,17 @@
         <option value="$PROJECT_DIR$/src/lessons/js-patterns/creational/constructor/presentation/2.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/components/Sandbox/style.css" />
         <option value="$PROJECT_DIR$/src/lessons/js-patterns/creational/module/sandbox.js" />
         <option value="$PROJECT_DIR$/src/lessons/js-patterns/creational/constructor/sandbox.js" />
+        <option value="$PROJECT_DIR$/src/lessons/js-patterns/creational/revealing-module/sandbox.js" />
+        <option value="$PROJECT_DIR$/src/lessons/js-patterns/creational/singleton/sandbox.js" />
+        <option value="$PROJECT_DIR$/src/lessons/js-patterns/creational/factory/sandbox.js" />
+        <option value="$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/sandbox.js" />
+        <option value="$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/sandbox.js" />
+        <option value="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/command/sandbox.js" />
         <option value="$PROJECT_DIR$/src/components/Sandbox/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Sandbox/style.css" />
+        <option value="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/mediator/sandbox.js" />
       </list>
     </option>
   </component>
@@ -315,11 +362,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="creational" />
+              <option name="myItemId" value="structural" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diploma" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diploma" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="module" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="structural" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="decorator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -348,8 +421,64 @@
               <option name="myItemId" value="creational" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="constructor" />
+              <option name="myItemId" value="diploma" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diploma" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="behavioral" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mediator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diploma" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="diploma" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lessons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="behavioral" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="command" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -409,11 +538,11 @@
       <recent name="$PROJECT_DIR$/src/components/App" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/lessons/js-patterns/creational/module/presentation" />
-      <recent name="$PROJECT_DIR$/src/data" />
-      <recent name="$PROJECT_DIR$/src/lessons/js-patterns/creational/constructor/presentation" />
-      <recent name="$PROJECT_DIR$/src/lessons/js-patterns/creational/constructor" />
-      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/lessons/js-patterns/behavioral" />
+      <recent name="$PROJECT_DIR$/src/lessons/js-patterns/structural" />
+      <recent name="$PROJECT_DIR$/src/lessons/js-patterns/creational" />
+      <recent name="$PROJECT_DIR$/src/lessons/js-patterns/creational/" />
+      <recent name="$PROJECT_DIR$/src/lessons/js-patterns/creational/revealing-module" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -515,12 +644,12 @@
       <workItem from="1494406102079" duration="2339000" />
       <workItem from="1494415924825" duration="6692000" />
       <workItem from="1495198331664" duration="769000" />
-      <workItem from="1495718472461" duration="2752000" />
+      <workItem from="1495718472461" duration="5927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33921000" />
+    <option name="totallyTimeSpent" value="37096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-20" width="1366" height="767" extended-state="0" />
@@ -553,7 +682,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="atlassian-ide-plugin-workspace-issues">
@@ -564,113 +695,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/Lessons/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="43" column="65" lean-forward="false" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Lessons/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="65" lean-forward="false" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Lesson/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/_data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="28" lean-forward="false" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Theory/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stores/appStore.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="38" lean-forward="false" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Lesson/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/_data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="28" lean-forward="false" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Theory/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -922,10 +946,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Sandbox/style.css">
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/creational/revealing-module/theory.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/creational/constructor/sandbox.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -938,29 +975,163 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/creational/constructor/sandbox.js">
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/creational/revealing-module/sandbox.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="476">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/creational/singleton/theory.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/creational/singleton/sandbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/creational/factory/theory.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/creational/factory/sandbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/theory.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/sandbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="38" lean-forward="false" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/theory.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/sandbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="66" column="4" lean-forward="false" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/behavioral/command/theory.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/behavioral/command/sandbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="91" column="119" lean-forward="false" selection-start-line="91" selection-start-column="119" selection-end-line="91" selection-end-column="119" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Sandbox/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="98" column="4" lean-forward="false" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="4" />
+        <state relative-caret-position="249">
+          <caret line="94" column="29" lean-forward="false" selection-start-line="94" selection-start-column="29" selection-end-line="94" selection-end-column="29" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
             <element signature="e#186#222#0" expanded="true" />
-            <marker date="1495721204284" expanded="true" signature="1847:2663" ph="..." />
-            <marker date="1495721204284" expanded="true" signature="1894:2350" ph="..." />
-            <marker date="1495721204284" expanded="true" signature="1948:2144" ph="..." />
-            <marker date="1495721204284" expanded="true" signature="2193:2327" ph="..." />
-            <marker date="1495721204284" expanded="true" signature="2300:2321" ph="..." />
-            <marker date="1495721204284" expanded="true" signature="2399:2644" ph="..." />
-            <marker date="1495721204284" expanded="true" signature="2424:2621" ph="..." />
+            <marker date="1495723646814" expanded="true" signature="1996:3192" ph="..." />
+            <marker date="1495723646814" expanded="true" signature="2043:2879" ph="..." />
+            <marker date="1495723646814" expanded="true" signature="2097:2504" ph="..." />
+            <marker date="1495723646814" expanded="true" signature="2606:2856" ph="..." />
+            <marker date="1495723646814" expanded="true" signature="2713:2850" ph="..." />
+            <marker date="1495723646814" expanded="true" signature="2928:3173" ph="..." />
+            <marker date="1495723646814" expanded="true" signature="2953:3150" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Sandbox/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/behavioral/mediator/theory.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/behavioral/mediator/sandbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

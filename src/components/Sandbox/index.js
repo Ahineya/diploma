@@ -18,7 +18,8 @@ export default class Sandbox extends Component {
         this.state = {
             code: props.code || '// JS goes here',
             tests: [],
-            error: ''
+            error: '',
+            fullscreen: false
         };
 
         this.visual = null;
@@ -36,7 +37,8 @@ export default class Sandbox extends Component {
     };
 
     assert = (statement, textStatement) => {
-        this.tests.push(<span>{statement ? <span className="correct">{textStatement}</span> : <span className="error">{textStatement}</span>}</span>);
+        this.tests.push(<span>{statement ? <span className="correct">{textStatement}</span> :
+            <span className="error">{textStatement}</span>}</span>);
     };
 
     log = (textStatement) => {
@@ -75,17 +77,27 @@ export default class Sandbox extends Component {
         });
     };
 
+    fullscreen = (isFull) => {
+        this.setState({
+            fullscreen: isFull
+        });
+    };
+
     render() {
         return (
             <div className="sandbox">
 
                 <div className="sandbox-top">
                     <div className="sandbox-results">
-                        <button className="run" onClick={this.run}>Run</button>
+                        <div className="sandbox-results-buttons">
+                            <button className="run" onClick={this.run}>Run</button>
+                            <button className="run" onClick={() => this.fullscreen(true)}>Fullscreen</button>
+                        </div>
                         <div ref={ref => this.visual = ref} className="sandbox-visual"/>
                     </div>
-                    <div className="codemirror">
+                    <div className={classnames('codemirror', {"fullscreen": this.state.fullscreen})}>
                         <CodeMirror value={this.state.code} onChange={this.updateCode} options={options}/>
+                        <button className="btn-fullscreen" onClick={() => this.fullscreen(false)}>Collapse</button>
                     </div>
                 </div>
                 <div className="sandbox-bottom">
