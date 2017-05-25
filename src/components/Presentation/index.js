@@ -22,7 +22,7 @@ export default class Presentation extends Component {
                                    case "text":
                                        return <ReactMarkdown source={slide.content}/>;
                                    case "image":
-                                       return <img src={slide.content} alt={`slide ${props.match.params.page - 1}`}/>;
+                                       return <img src={`data:image/png;base64,${slide.content}`} alt={`slide ${props.match.params.page - 1}`}/>;
                                }
                            }}/>
 

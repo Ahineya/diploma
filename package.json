@@ -18,10 +18,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "node packer.js > ./src/data/data.json && react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "!eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "yarn build && mv build/index.html build/200.html",
+    "deploy": "surge ./build --domain evsegneev-diploma.surge.sh"
   }
 }
