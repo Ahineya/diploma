@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6162129-9cee-41ba-8a47-74b4c5904ea8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/theory.md" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/theory.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/theory.md" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/theory.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,21 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="theory.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/creational/factory/theory.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1768">
-                <caret line="104" column="14" lean-forward="false" selection-start-line="104" selection-start-column="14" selection-end-line="104" selection-end-column="14" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="theory.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/creational/revealing-module/theory.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -124,12 +109,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theory.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="theory.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/theory.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="810">
                 <caret line="128" column="115" lean-forward="false" selection-start-line="128" selection-start-column="115" selection-end-line="128" selection-end-column="115" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="theory.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/theory.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="858">
+                <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -256,6 +256,7 @@
         <option value="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/mediator/theory.md" />
         <option value="$PROJECT_DIR$/src/lessons/js-patterns/behavioral/observer/theory.md" />
         <option value="$PROJECT_DIR$/src/lessons/js-patterns/structural/decorator/theory.md" />
+        <option value="$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/theory.md" />
       </list>
     </option>
   </component>
@@ -364,6 +365,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="structural" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="facade" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -602,12 +607,12 @@
       <workItem from="1495198331664" duration="769000" />
       <workItem from="1495718472461" duration="7118000" />
       <workItem from="1495726317019" duration="4775000" />
-      <workItem from="1495802699571" duration="2184000" />
+      <workItem from="1495802699571" duration="2521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45246000" />
+    <option name="totallyTimeSpent" value="45583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="-20" width="1920" height="1079" extended-state="0" />
@@ -864,18 +869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/theory.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/sandbox.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -1078,6 +1071,19 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="810">
             <caret line="128" column="115" lean-forward="false" selection-start-line="128" selection-start-column="115" selection-end-line="128" selection-end-column="115" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/theory.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="858">
+            <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
