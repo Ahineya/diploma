@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6162129-9cee-41ba-8a47-74b4c5904ea8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/theory.md" afterPath="$PROJECT_DIR$/src/lessons/js-patterns/structural/facade/theory.md" />
-    </list>
+    <list default="true" id="e6162129-9cee-41ba-8a47-74b4c5904ea8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -490,7 +488,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../telegram/microgames" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" />
   </component>
@@ -607,12 +605,12 @@
       <workItem from="1495198331664" duration="769000" />
       <workItem from="1495718472461" duration="7118000" />
       <workItem from="1495726317019" duration="4775000" />
-      <workItem from="1495802699571" duration="2521000" />
+      <workItem from="1495802699571" duration="4327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45583000" />
+    <option name="totallyTimeSpent" value="47389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="-20" width="1920" height="1079" extended-state="0" />
